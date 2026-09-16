@@ -2,7 +2,6 @@ Access by [ulknows.github.io](https://ulknows.github.io/)
 
 This is node graph editor to make a graph or something(i don't know).\
 Create by vibecode method.\
-*In the first version is support the Thai language only(I forgot to add the English but my token has ran out)
 
 Feature\
 General Node - Write anything if you want.\
